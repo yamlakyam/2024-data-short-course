@@ -122,6 +122,7 @@ We appreciate these partnerships and look forward to working with you all!
 |[Sandip Rijal](https://namedrop.io/sandiprijal) (Student)| [FAU](https://www.fau.edu/); Department of Geoscience| Sandipriz| [https://sandipriz.github.io/](https://sandipriz.github.io/) |
 |Andrew Simiyu (Student)| Data Science and Data analysis, Turing College| wasanRuntime| [https://wasanruntime.github.io/](https://wasanruntime.github.io/) |
 | Sodiq Jinad (Student) | [Ahmadu Bello University, Zaria](https://abu.edu.ng) | Sordhiq | [https://sordhiq.github.io](https://sordhiq.github.io) |
+| [Yamlak Asrat Bogale](https://namedrop.io/yamlakbogale) (Student) | [Carnegie Mellon University - Africa](https://www.africa.engineering.cmu.edu/) | yamlakyam | [https://yamlakyam.github.io/](https://yamlakyam.github.io/) |
 
 
 
